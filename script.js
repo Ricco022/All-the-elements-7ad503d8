@@ -8,4 +8,4 @@ h1.classList;
 let h3 = document.querySelectorAll("h3");
 h3.forEach(function (element) {
     element.classList.add('h3')
-})
+})w
